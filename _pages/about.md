@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  <a href="https://uwaterloo.ca/">University of Waterloo </a>  #200 University Ave W, Waterloo, ON N2L 3G1, Canada.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>  </p>
+    <p>  </p>
+    <p>  </p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+selected_papers: False # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a **postdoctoral researcher** working under the supervision of Dr. [Lila Kari](https://cs.uwaterloo.ca/~lila/){:target="\_blank"}. My main research areas are machine learning and bioinformatics.  In particular, self-supervised learning for taxonomic identification and biologically inspired foundation models. I am also passionate about Information Theory and Theoretical Computer Science. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Huge fan of [América de Cali](https://www.americadecali.co/) and Colombian soccer [national team](https://fcf.com.co/). Amateur runner in the pursuit of a sub-90 minutes half-marathon and sub-3:30 marathon 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### education
+
+* 2019.04 - 2024.05: Ph.D. in Computer Science, University of Waterloo. \[[Thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/20581/MillanArias_Pablo.pdf?sequence=5)\]
+* 2015.07 - 2019.03: B.Sc. in Math, Javeriana University. \[[Thesis](https://core.ac.uk/reader/162569040)\]
+* 2013.01 - 2018.07: B.Sc. in Electronic Engineering, Javeriana University.
+

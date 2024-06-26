@@ -56,6 +56,14 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Media Coverage -->
+    {% if page.media and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/media/' | relative_url }}" style="color: inherit">media</a>
+      </h2>
+      {% include media.liquid limit=true %}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
