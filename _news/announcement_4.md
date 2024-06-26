@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be at NeurIPS presenting our latest [paper](https://arxiv.org/abs/2311.02401) at the Workshop of Sel-Supervised Learning theory and practice. 
+I will be presenting our latest [paper](https://arxiv.org/abs/2311.02401) at the 4th Workshop of Self-Supervised Learning in NeurIPS.  
