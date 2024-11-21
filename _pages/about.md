@@ -19,7 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a **postdoctoral researcher** working under the supervision of Dr. [Lila Kari](https://cs.uwaterloo.ca/~lila/){:target="\_blank"}. My main research areas are machine learning and bioinformatics.  In particular, self-supervised learning for taxonomic identification and biologically inspired foundation models. I am also passionate about Information Theory and Theoretical Computer Science. 
 
-Huge fan of [América de Cali](https://www.americadecali.co/) and Colombian soccer [national team](https://fcf.com.co/). Amateur runner in the pursuit of a sub-90 minutes half-marathon and sub-3:30 marathon 
+Huge fan of [América de Cali](https://www.americadecali.co/) and Colombian soccer [national team](https://fcf.com.co/). Amateur runner in the pursuit of a sub-90 minutes half-marathon and sub-3:30 marathon. 
+
+Check out my latest teaching [video](https://www.youtube.com/live/BwCP-kqN2P0)
 
 ### education
 
