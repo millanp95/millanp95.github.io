@@ -14,5 +14,5 @@ profiles:
     content: 
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p><a href="/courses/cs482/">CS 482 @ UWaterloo</a></p>
+      <p><a href="/cs482/">CS 482 @ UWaterloo</a></p>
 ---
