@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational Techniques in Biological Sequence Analysis
-permalink: /cs482/project_giudelines
+permalink: /cs482/project_guidelines
 ---
 
 ## Project Guidelines  
